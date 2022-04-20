@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "theant:block/ant",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "theant:block/ant"
+    },
+    "facing=south": {
+      "model": "theant:block/ant",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "theant:block/ant",
+      "y": 270
+    }
+  }
+}
